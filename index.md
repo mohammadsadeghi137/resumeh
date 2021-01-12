@@ -4,9 +4,9 @@
 ### Personal informations
 
 ---
-+ name: Ali Reza
-+ last name : Mousavi
-+ Date of birth : 1379/2/22
++ name: Mohammad 
++ last name : sadeghi badie
++ Date of birth : 1379/1/15
 + I am a trader and Computer Engineering student
 + location : iran , tehran 
 
@@ -15,13 +15,13 @@
 
 ---
 + Computer repairs
-+ web developer 
++ web designer
 
 
 ### Education
 
 ---
-+ Diploma : Mulla sadra high school
++ Diploma : alborz  high school
 + Bachelor of science : Computer Engineering
 _ payam Noor University of rey 
 
@@ -34,14 +34,13 @@ _ payam Noor University of rey
 ### Favorites
 
 ---
-+ Football
 + Futsal
 + travel 
 
 ### working Experience
 
 ---
-+ I am working in t company 
++ I am working as web disigner Tutorial
 
 
 
